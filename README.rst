@@ -16,7 +16,7 @@ This pipeline requires:
 
 3. Install topGO via Bioconductor: http://bioconductor.org/packages/release/bioc/html/topGO.html.
 
-4. RTFM if things fail.
+4. Troubleshooting if things fail!
 
    Vignettes: http://bioconductor.org/packages/release/bioc/vignettes/topGO/inst/doc/topGO.pdf
 
