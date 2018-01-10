@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0005578	proteinaceous extracellular matrix	123	17	6.64	0.00029
+2	GO:0005615	extracellular space	138	17	7.44	0.00098
+3	GO:0005581	collagen trimer	53	9	2.86	0.00178
+4	GO:0030867	rough endoplasmic reticulum membrane	5	2	0.27	0.02598
+5	GO:0019012	virion	5	2	0.27	0.02598
+6	GO:0005796	Golgi lumen	7	2	0.38	0.05080
+7	GO:0001520	outer dense fiber	1	1	0.05	0.05395
+8	GO:0090406	pollen tube	1	1	0.05	0.05395
+9	GO:0009570	chloroplast stroma	1	1	0.05	0.05395
+10	GO:0043033	isoamylase complex	1	1	0.05	0.05395
+11	GO:0060091	kinocilium	1	1	0.05	0.05395
+12	GO:0017146	NMDA selective glutamate receptor complex	1	1	0.05	0.05395
+13	GO:0000445	THO complex part of transcription export complex	1	1	0.05	0.05395
+14	GO:0005971	ribonucleoside-diphosphate reductase complex	1	1	0.05	0.05395
+15	GO:0030314	junctional membrane complex	1	1	0.05	0.05395
+16	GO:0000407	pre-autophagosomal structure	1	1	0.05	0.05395
+17	GO:0097541	axonemal basal plate	1	1	0.05	0.05395
+18	GO:0097542	ciliary tip	1	1	0.05	0.05395
+19	GO:0097546	ciliary base	1	1	0.05	0.05395
+20	GO:0090537	CERF complex	1	1	0.05	0.05395
+21	GO:0014701	junctional sarcoplasmic reticulum membrane	1	1	0.05	0.05395
+22	GO:0036064	ciliary basal body	9	2	0.49	0.08114
+23	GO:0031512	motile primary cilium	2	1	0.11	0.10500
+24	GO:0030992	intraciliary transport particle B	2	1	0.11	0.10500
+25	GO:0005719	nuclear euchromatin	2	1	0.11	0.10500
+26	GO:0016600	flotillin complex	2	1	0.11	0.10500
+27	GO:0072534	perineuronal net	2	1	0.11	0.10500
+28	GO:0002080	acrosomal membrane	2	1	0.11	0.10500
+29	GO:0005703	polytene chromosome puff	2	1	0.11	0.10500
+30	GO:0031232	extrinsic component of external side of plasma membrane	2	1	0.11	0.10500
+31	GO:0045120	pronucleus	2	1	0.11	0.10500
+32	GO:0016021	integral component of membrane	579	37	31.23	0.11412
+33	GO:0005923	bicellular tight junction	11	2	0.59	0.11559
+34	GO:0005881	cytoplasmic microtubule	12	2	0.65	0.13397
+35	GO:0005814	centriole	12	2	0.65	0.13397
+36	GO:0016529	sarcoplasmic reticulum	12	3	0.65	0.15205
+37	GO:0042995	cell projection	269	16	14.51	0.15264
+38	GO:0001527	microfibril	3	1	0.16	0.15331
+39	GO:0097487	multivesicular body, internal vesicle	3	1	0.16	0.15331
+40	GO:0005764	lysosome	104	8	5.61	0.17174
+41	GO:0005777	peroxisome	39	4	2.1	0.18873
+42	GO:0000242	pericentriolar material	4	1	0.22	0.19903
+43	GO:0016514	SWI/SNF complex	4	1	0.22	0.19903
+44	GO:0017053	transcriptional repressor complex	4	1	0.22	0.19903
+45	GO:0009941	chloroplast envelope	4	1	0.22	0.19903
+46	GO:0031258	lamellipodium membrane	4	1	0.22	0.19903
+47	GO:0071564	npBAF complex	4	1	0.22	0.19903
+48	GO:0071565	nBAF complex	4	1	0.22	0.19903
+49	GO:0044295	axonal growth cone	4	1	0.22	0.19903
+50	GO:0034707	chloride channel complex	4	1	0.22	0.19903
+51	GO:0019005	SCF ubiquitin ligase complex	4	1	0.22	0.19903
+52	GO:0045177	apical part of cell	47	5	2.54	0.20991
+53	GO:0005605	basal lamina	16	2	0.86	0.21237
+54	GO:0016023	cytoplasmic, membrane-bounded vesicle	211	10	11.38	0.22518
+55	GO:0030054	cell junction	183	11	9.87	0.22972
+56	GO:0016324	apical plasma membrane	31	3	1.67	0.23249
+57	GO:0005901	caveola	7	2	0.38	0.24119
+58	GO:0072372	primary cilium	16	2	0.86	0.24178
+59	GO:0005665	DNA-directed RNA polymerase II, core complex	5	1	0.27	0.24229
+60	GO:0032391	photoreceptor connecting cilium	5	1	0.27	0.24229
+61	GO:0008076	voltage-gated potassium channel complex	5	1	0.27	0.24229
+62	GO:0016272	prefoldin complex	5	1	0.27	0.24229
+63	GO:0045202	synapse	118	7	6.37	0.24891
+64	GO:0005903	brush border	18	2	0.97	0.25310
+65	GO:0031410	cytoplasmic vesicle	229	12	12.35	0.25620
+66	GO:0005604	basement membrane	49	5	2.64	0.25878
+67	GO:0005902	microvillus	19	2	1.02	0.27356
+68	GO:0005795	Golgi stack	17	2	0.92	0.28266
+69	GO:0030127	COPII vesicle coat	6	1	0.32	0.28323
+70	GO:0031307	integral component of mitochondrial outer membrane	6	1	0.32	0.28323
+71	GO:0033018	sarcoplasmic reticulum lumen	6	1	0.32	0.28323
+72	GO:0031226	intrinsic component of plasma membrane	83	5	4.48	0.28345
+73	GO:0005758	mitochondrial intermembrane space	20	2	1.08	0.29400
+74	GO:0005929	cilium	63	6	3.4	0.31007
+75	GO:0005773	vacuole	133	9	7.17	0.32004
+76	GO:0005834	heterotrimeric G-protein complex	7	1	0.38	0.32197
+77	GO:0043202	lysosomal lumen	7	1	0.38	0.32197
+78	GO:0071203	WASH complex	7	1	0.38	0.32197
+79	GO:0005938	cell cortex	93	5	5.02	0.34037
+80	GO:0005930	axoneme	17	3	0.92	0.35608
+81	GO:0005782	peroxisomal matrix	8	1	0.43	0.35862
+82	GO:0031527	filopodium membrane	8	1	0.43	0.35862
+83	GO:0031514	motile cilium	8	1	0.43	0.35862
+84	GO:0005886	plasma membrane	545	31	29.4	0.37315
+85	GO:0005874	microtubule	96	8	5.18	0.39264
+86	GO:0032580	Golgi cisterna membrane	9	1	0.49	0.39331
+87	GO:0005876	spindle microtubule	9	1	0.49	0.39331
+88	GO:0055038	recycling endosome membrane	9	1	0.49	0.39331
+89	GO:0043227	membrane-bounded organelle	1895	91	102.23	0.39662
+90	GO:0042470	melanosome	43	3	2.32	0.41197
+91	GO:0005635	nuclear envelope	71	3	3.83	0.41754
+92	GO:0030426	growth cone	14	2	0.76	0.42465
+93	GO:0031941	filamentous actin	10	1	0.54	0.42613
+94	GO:0070469	respiratory chain	36	2	1.94	0.42689
+95	GO:0097060	synaptic membrane	39	2	2.1	0.42720
+96	GO:0014069	postsynaptic density	27	2	1.46	0.43240
+97	GO:0005783	endoplasmic reticulum	286	16	15.43	0.45658
+98	GO:0045111	intermediate filament cytoskeleton	11	1	0.59	0.45718
+99	GO:0044306	neuron projection terminus	11	1	0.59	0.45718
+100	GO:0032420	stereocilium	11	1	0.59	0.45718

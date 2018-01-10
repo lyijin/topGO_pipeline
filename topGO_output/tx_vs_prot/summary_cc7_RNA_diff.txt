@@ -1,0 +1,217 @@
+-- bp_cc7_RNA_diff.txt --
+	GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0006457	protein folding	128	24	7.16	2.1e-05
+2	GO:0043691	reverse cholesterol transport	7	4	0.39	0.00030
+3	GO:0055114	oxidation-reduction process	1095	92	61.25	0.00030
+4	GO:0044267	cellular protein metabolic process	3466	210	193.86	0.00032
+5	GO:0019511	peptidyl-proline hydroxylation	13	6	0.73	0.00056
+6	GO:0055098	response to low-density lipoprotein particle	16	5	0.89	0.00067
+9	GO:0061077	chaperone-mediated protein folding	22	6	1.23	0.00104
+10	GO:0000381	regulation of alternative mRNA splicing, via spliceosome	16	5	0.89	0.00141
+11	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	5	3	0.28	0.00160
+12	GO:0038027	apolipoprotein A-I-mediated signaling pathway	5	3	0.28	0.00160
+13	GO:0034380	high-density lipoprotein particle assembly	5	3	0.28	0.00160
+14	GO:0060155	platelet dense granule organization	5	3	0.28	0.00160
+15	GO:0033700	phospholipid efflux	5	3	0.28	0.00160
+16	GO:0002790	peptide secretion	87	6	4.87	0.00161
+17	GO:0010718	positive regulation of epithelial to mesenchymal transition	24	6	1.34	0.00170
+18	GO:0000387	spliceosomal snRNP assembly	28	8	1.57	0.00211
+19	GO:0034616	response to laminar fluid shear stress	11	4	0.62	0.00234
+20	GO:0015918	sterol transport	54	9	3.02	0.00304
+21	GO:0035050	embryonic heart tube development	79	8	4.42	0.00306
+22	GO:0006068	ethanol catabolic process	6	3	0.34	0.00307
+27	GO:0006413	translational initiation	85	8	4.75	0.00339
+28	GO:0000413	protein peptidyl-prolyl isomerization	28	6	1.57	0.00393
+29	GO:0007521	muscle cell fate determination	7	3	0.39	0.00515
+30	GO:0051384	response to glucocorticoid	54	8	3.02	0.00534
+31	GO:0006986	response to unfolded protein	73	9	4.08	0.00535
+32	GO:0006633	fatty acid biosynthetic process	96	14	5.37	0.00603
+33	GO:0016226	iron-sulfur cluster assembly	14	4	0.78	0.00620
+34	GO:0048025	negative regulation of mRNA splicing, via spliceosome	14	4	0.78	0.00620
+35	GO:0000272	polysaccharide catabolic process	46	7	2.57	0.00665
+36	GO:0006541	glutamine metabolic process	31	6	1.73	0.00666
+37	GO:0044255	cellular lipid metabolic process	627	45	35.07	0.00772
+38	GO:0003333	amino acid transmembrane transport	35	7	1.96	0.00778
+39	GO:0055091	phospholipid homeostasis	8	3	0.45	0.00790
+40	GO:0032933	SREBP signaling pathway	7	3	0.39	0.00901
+50	GO:0016486	peptide hormone processing	22	6	1.23	0.01024
+51	GO:0070374	positive regulation of ERK1 and ERK2 cascade	55	8	3.08	0.01094
+52	GO:0006911	phagocytosis, engulfment	25	5	1.4	0.01129
+53	GO:0033344	cholesterol efflux	22	6	1.23	0.01129
+54	GO:0015758	glucose transport	43	5	2.41	0.01136
+55	GO:0046185	aldehyde catabolic process	9	3	0.5	0.01136
+56	GO:0051603	proteolysis involved in cellular protein catabolic process	394	27	22.04	0.01280
+57	GO:0030819	positive regulation of cAMP biosynthetic process	43	5	2.41	0.01291
+58	GO:0009113	purine nucleobase biosynthetic process	10	3	0.56	0.01556
+59	GO:0001507	acetylcholine catabolic process in synaptic cleft	10	3	0.56	0.01556
+60	GO:0060037	pharyngeal system development	10	3	0.56	0.01556
+61	GO:0003360	brainstem development	10	3	0.56	0.01556
+62	GO:0015804	neutral amino acid transport	25	5	1.4	0.01582
+73	GO:0042089	cytokine biosynthetic process	29	3	1.62	0.01740
+74	GO:0032092	positive regulation of protein binding	62	7	3.47	0.01796
+75	GO:0006397	mRNA processing	349	44	19.52	0.01929
+76	GO:0009306	protein secretion	160	17	8.95	0.02019
+77	GO:0006189	'de novo' IMP biosynthetic process	11	3	0.62	0.02052
+78	GO:0045332	phospholipid translocation	11	3	0.62	0.02052
+79	GO:0007339	binding of sperm to zona pellucida	11	3	0.62	0.02052
+80	GO:0006915	apoptotic process	981	61	54.87	0.02170
+81	GO:0009405	pathogenesis	30	5	1.68	0.02406
+82	GO:0030521	androgen receptor signaling pathway	22	4	1.23	0.02622
+83	GO:0042149	cellular response to glucose starvation	12	3	0.67	0.02625
+84	GO:0071397	cellular response to cholesterol	12	3	0.67	0.02625
+85	GO:0010875	positive regulation of cholesterol efflux	12	3	0.67	0.02625
+86	GO:0032981	mitochondrial respiratory chain complex I assembly	12	3	0.67	0.02625
+87	GO:0009083	branched-chain amino acid catabolic process	15	4	0.84	0.02783
+88	GO:0055119	relaxation of cardiac muscle	13	3	0.73	0.02788
+89	GO:0042738	exogenous drug catabolic process	5	2	0.28	0.02791
+90	GO:0045163	clustering of voltage-gated potassium channels	5	2	0.28	0.02791
+91	GO:0009103	lipopolysaccharide biosynthetic process	5	2	0.28	0.02791
+92	GO:0009822	alkaloid catabolic process	5	2	0.28	0.02791
+93	GO:0030238	male sex determination	5	2	0.28	0.02791
+94	GO:0033189	response to vitamin A	5	2	0.28	0.02791
+95	GO:0018401	peptidyl-proline hydroxylation to 4-hydroxy-L-proline	5	2	0.28	0.02791
+96	GO:0003146	heart jogging	5	2	0.28	0.02791
+97	GO:0044179	hemolysis in other organism	42	6	2.35	0.02825
+98	GO:0046034	ATP metabolic process	439	41	24.55	0.02843
+99	GO:0016925	protein sumoylation	22	4	1.23	0.03177
+100	GO:0034614	cellular response to reactive oxygen species	65	6	3.64	0.03273
+101	GO:0050702	interleukin-1 beta secretion	13	3	0.73	0.03273
+102	GO:0006569	tryptophan catabolic process	13	3	0.73	0.03273
+103	GO:0042993	positive regulation of transcription factor import into nucleus	13	3	0.73	0.03273
+104	GO:0043932	ossification involved in bone remodeling	13	3	0.73	0.03273
+105	GO:0090177	establishment of planar polarity involved in neural tube closure	41	4	2.29	0.03279
+106	GO:0009169	purine ribonucleoside monophosphate catabolic process	380	30	21.25	0.03622
+107	GO:0046130	purine ribonucleoside catabolic process	563	40	31.49	0.03630
+108	GO:0008652	cellular amino acid biosynthetic process	151	14	8.45	0.03779
+109	GO:0034599	cellular response to oxidative stress	99	11	5.54	0.03880
+110	GO:0001666	response to hypoxia	123	10	6.88	0.03951
+111	GO:0006144	purine nucleobase metabolic process	32	7	1.79	0.03965
+112	GO:0019058	viral life cycle	128	8	7.16	0.04012
+113	GO:0008206	bile acid metabolic process	23	4	1.29	0.04024
+114	GO:0043248	proteasome assembly	8	3	0.45	0.04026
+115	GO:0006662	glycerol ether metabolic process	10	3	0.56	0.04026
+116	GO:0060337	type I interferon signaling pathway	15	3	0.84	0.04029
+117	GO:0045316	negative regulation of compound eye photoreceptor development	6	2	0.34	0.04033
+118	GO:0045463	R8 cell development	6	2	0.34	0.04033
+119	GO:0045468	regulation of R8 cell spacing in compound eye	6	2	0.34	0.04033
+120	GO:0002540	leukotriene production involved in inflammatory response	6	2	0.34	0.04033
+121	GO:0071353	cellular response to interleukin-4	6	2	0.34	0.04033
+122	GO:0006564	L-serine biosynthetic process	6	2	0.34	0.04033
+123	GO:0042676	compound eye cone cell fate commitment	6	2	0.34	0.04033
+124	GO:0046667	compound eye retinal cell programmed cell death	6	2	0.34	0.04033
+125	GO:0030720	oocyte localization involved in germarium-derived egg chamber formation	6	2	0.34	0.04033
+126	GO:0036378	calcitriol biosynthetic process from calciol	6	2	0.34	0.04033
+127	GO:0036335	intestinal stem cell homeostasis	6	2	0.34	0.04033
+128	GO:0016348	imaginal disc-derived leg joint morphogenesis	6	2	0.34	0.04033
+129	GO:0016330	second mitotic wave involved in compound eye morphogenesis	6	2	0.34	0.04033
+130	GO:0035155	negative regulation of terminal cell fate specification, open tracheal system	6	2	0.34	0.04033
+131	GO:0035157	negative regulation of fusion cell fate specification	6	2	0.34	0.04033
+132	GO:0035170	lymph gland crystal cell differentiation	6	2	0.34	0.04033
+133	GO:0035171	lamellocyte differentiation	6	2	0.34	0.04033
+134	GO:0007464	R3/R4 cell fate commitment	6	2	0.34	0.04033
+135	GO:0007451	dorsal/ventral lineage restriction, imaginal disc	6	2	0.34	0.04033
+136	GO:0007473	wing disc proximal/distal pattern formation	6	2	0.34	0.04033
+137	GO:0006465	signal peptide processing	6	2	0.34	0.04033
+138	GO:0006032	chitin catabolic process	24	4	1.34	0.04228
+139	GO:0030199	collagen fibril organization	35	5	1.96	0.04367
+140	GO:0008340	determination of adult lifespan	35	5	1.96	0.04367
+141	GO:0009725	response to hormone	410	39	22.93	0.04604
+142	GO:0006030	chitin metabolic process	50	9	2.8	0.04762
+143	GO:0071356	cellular response to tumor necrosis factor	36	6	2.01	0.04771
+144	GO:0007298	border follicle cell migration	15	3	0.84	0.04794
+145	GO:0033690	positive regulation of osteoblast proliferation	15	3	0.84	0.04794
+
+-- cc_cc7_RNA_diff.txt --
+	GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0005747	mitochondrial respiratory chain complex I	21	10	1.27	1.2e-07
+2	GO:0005788	endoplasmic reticulum lumen	142	27	8.56	3.2e-07
+3	GO:0042470	melanosome	76	15	4.58	7.2e-05
+4	GO:0034715	pICln-Sm protein complex	6	4	0.36	0.00018
+5	GO:0070469	respiratory chain	49	18	2.96	0.00021
+6	GO:0034709	methylosome	11	5	0.66	0.00027
+7	GO:0005790	smooth endoplasmic reticulum	12	5	0.72	0.00044
+8	GO:0005685	U1 snRNP	12	5	0.72	0.00044
+9	GO:0005687	U4 snRNP	8	4	0.48	0.00076
+11	GO:0070062	extracellular exosome	600	55	36.19	0.00125
+12	GO:0005689	U12-type spliceosomal complex	15	5	0.9	0.00143
+13	GO:0042151	nematocyst	65	11	3.92	0.00161
+14	GO:0005578	proteinaceous extracellular matrix	523	54	31.54	0.00171
+15	GO:0034719	SMN-Sm protein complex	16	5	0.96	0.00197
+16	GO:0005576	extracellular region	2312	198	139.44	0.00198
+17	GO:0005796	Golgi lumen	41	8	2.47	0.00274
+20	GO:0005581	collagen trimer	172	21	10.37	0.00488
+21	GO:0002199	zona pellucida receptor complex	7	3	0.42	0.00637
+22	GO:0005832	chaperonin-containing T-complex	7	3	0.42	0.00637
+23	GO:0005739	mitochondrion	1190	105	71.77	0.00720
+24	GO:0016607	nuclear speck	124	15	7.48	0.00767
+25	GO:0000502	proteasome complex	68	17	4.1	0.01025
+26	GO:0032991	macromolecular complex	3551	216	214.16	0.01046
+28	GO:0005762	mitochondrial large ribosomal subunit	10	3	0.6	0.01906
+29	GO:0005743	mitochondrial inner membrane	287	37	17.31	0.02005
+32	GO:0012507	ER to Golgi transport vesicle membrane	17	4	1.03	0.02501
+33	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	20	4	1.21	0.02936
+34	GO:0008180	COP9 signalosome	20	4	1.21	0.02936
+35	GO:0008540	proteasome regulatory particle, base subcomplex	5	2	0.3	0.03216
+36	GO:0071013	catalytic step 2 spliceosome	51	7	3.08	0.03238
+37	GO:0005615	extracellular space	561	45	33.83	0.03735
+38	GO:0005681	spliceosomal complex	130	19	7.84	0.04250
+39	GO:0005666	DNA-directed RNA polymerase III complex	14	3	0.84	0.04832
+
+-- mf_cc7_RNA_diff.txt --
+	GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0051082	unfolded protein binding	52	15	2.82	6.3e-08
+2	GO:0004656	procollagen-proline 4-dioxygenase activity	8	6	0.43	6.4e-07
+3	GO:0008137	NADH dehydrogenase (ubiquinone) activity	17	8	0.92	1.1e-06
+4	GO:0004222	metalloendopeptidase activity	208	27	11.29	2.3e-05
+5	GO:0005355	glucose transmembrane transporter activity	5	4	0.27	4.1e-05
+6	GO:0000166	nucleotide binding	2613	165	141.86	6.6e-05
+7	GO:0017127	cholesterol transporter activity	6	4	0.33	0.00012
+8	GO:0005506	iron ion binding	229	27	12.43	0.00023
+9	GO:0016702	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	41	10	2.23	0.00058
+10	GO:0042605	peptide antigen binding	15	5	0.81	0.00089
+11	GO:0004028	3-chloroallyl aldehyde dehydrogenase activity	5	3	0.27	0.00147
+12	GO:0034186	apolipoprotein A-I binding	5	3	0.27	0.00147
+13	GO:0034188	apolipoprotein A-I receptor activity	5	3	0.27	0.00147
+14	GO:0031418	L-ascorbic acid binding	42	8	2.28	0.00166
+15	GO:0003950	NAD+ ADP-ribosyltransferase activity	26	6	1.41	0.00227
+16	GO:0004030	aldehyde dehydrogenase [NAD(P)+] activity	6	3	0.33	0.00282
+18	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	28	6	1.52	0.00339
+19	GO:0008509	anion transmembrane transporter activity	199	16	10.8	0.00469
+20	GO:0005528	FK506 binding	7	3	0.38	0.00473
+21	GO:0009055	electron carrier activity	57	10	3.09	0.00684
+25	GO:0004298	threonine-type endopeptidase activity	16	4	0.87	0.00929
+26	GO:0030197	extracellular matrix constituent, lubricant activity	9	3	0.49	0.01047
+27	GO:0015175	neutral amino acid transmembrane transporter activity	22	5	1.19	0.01161
+28	GO:0016746	transferase activity, transferring acyl groups	252	23	13.68	0.01399
+29	GO:0004602	glutathione peroxidase activity	10	3	0.54	0.01436
+36	GO:0016887	ATPase activity	458	31	24.86	0.01894
+37	GO:0036374	glutathione hydrolase activity	11	3	0.6	0.01896
+38	GO:0031267	small GTPase binding	117	6	6.35	0.01911
+39	GO:0003756	protein disulfide isomerase activity	20	4	1.09	0.02083
+40	GO:0005007	fibroblast growth factor-activated receptor activity	41	6	2.23	0.02229
+41	GO:0044822	poly(A) RNA binding	331	27	17.97	0.02262
+42	GO:0016747	transferase activity, transferring acyl groups other than amino-acyl groups	203	14	11.02	0.02423
+43	GO:0001056	RNA polymerase III activity	12	3	0.65	0.02427
+44	GO:0003840	gamma-glutamyltransferase activity	12	3	0.65	0.02427
+45	GO:0051087	chaperone binding	31	5	1.68	0.02447
+46	GO:0035259	glucocorticoid receptor binding	5	2	0.27	0.02638
+47	GO:0070182	DNA polymerase binding	5	2	0.27	0.02638
+48	GO:0004791	thioredoxin-disulfide reductase activity	5	2	0.27	0.02638
+49	GO:0035438	cyclic-di-GMP binding	5	2	0.27	0.02638
+50	GO:0001671	ATPase activator activity	5	2	0.27	0.02638
+51	GO:0050649	testosterone 6-beta-hydroxylase activity	5	2	0.27	0.02638
+52	GO:0003917	DNA topoisomerase type I activity	5	2	0.27	0.02638
+53	GO:0003918	DNA topoisomerase type II (ATP-hydrolyzing) activity	5	2	0.27	0.02638
+54	GO:0061507	cyclic-GMP-AMP binding	5	2	0.27	0.02638
+55	GO:0008237	metallopeptidase activity	316	35	17.16	0.03140
+56	GO:0042803	protein homodimerization activity	407	31	22.1	0.03616
+57	GO:0003743	translation initiation factor activity	58	7	3.15	0.03674
+58	GO:0005548	phospholipid transporter activity	23	6	1.25	0.03679
+59	GO:0005332	gamma-aminobutyric acid:sodium symporter activity	14	3	0.76	0.03705
+60	GO:0004478	methionine adenosyltransferase activity	6	2	0.33	0.03816
+61	GO:0042834	peptidoglycan binding	6	2	0.33	0.03816
+62	GO:0047631	ADP-ribose diphosphatase activity	6	2	0.33	0.03816
+63	GO:0005536	glucose binding	6	2	0.33	0.03816
+64	GO:0030343	vitamin D3 25-hydroxylase activity	6	2	0.33	0.03816
+65	GO:0003990	acetylcholinesterase activity	15	3	0.81	0.04450
+66	GO:0004129	cytochrome-c oxidase activity	15	3	0.81	0.04450

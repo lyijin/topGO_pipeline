@@ -1,0 +1,45 @@
+-- bp_cc7_prot_diff.txt --
+	GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0060122	inner ear receptor stereocilium organization	7	4	0.38	0.00025
+2	GO:0001822	kidney development	34	8	1.82	0.00036
+3	GO:0051290	protein heterotetramerization	5	3	0.27	0.00140
+4	GO:0090102	cochlea development	8	4	0.43	0.00281
+7	GO:0008104	protein localization	388	15	20.81	0.00313
+8	GO:0042475	odontogenesis of dentin-containing tooth	9	4	0.48	0.00446
+9	GO:0060425	lung morphogenesis	7	3	0.38	0.00452
+13	GO:0090305	nucleic acid phosphodiester bond hydrolysis	33	6	1.77	0.00976
+14	GO:0006338	chromatin remodeling	16	4	0.86	0.01362
+19	GO:0045669	positive regulation of osteoblast differentiation	12	3	0.64	0.02331
+20	GO:0050808	synapse organization	41	5	2.2	0.02540
+21	GO:0030199	collagen fibril organization	5	2	0.27	0.02569
+22	GO:0000086	G2/M transition of mitotic cell cycle	18	4	0.97	0.03524
+23	GO:0051384	response to glucocorticoid	14	3	0.75	0.03565
+24	GO:0090090	negative regulation of canonical Wnt signaling pathway	14	3	0.75	0.03565
+25	GO:0006812	cation transport	117	10	6.27	0.03637
+26	GO:0090177	establishment of planar polarity involved in neural tube closure	6	2	0.32	0.03719
+27	GO:0090103	cochlea morphogenesis	6	2	0.32	0.03719
+28	GO:0051919	positive regulation of fibrinolysis	6	2	0.32	0.03719
+
+-- cc_cc7_prot_diff.txt --
+	GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0005578	proteinaceous extracellular matrix	123	17	6.64	0.00029
+2	GO:0005615	extracellular space	138	17	7.44	0.00098
+3	GO:0005581	collagen trimer	53	9	2.86	0.00178
+4	GO:0030867	rough endoplasmic reticulum membrane	5	2	0.27	0.02598
+5	GO:0019012	virion	5	2	0.27	0.02598
+
+-- mf_cc7_prot_diff.txt --
+	GO.ID	Term	Annotated	Significant	Expected	P_value
+3	GO:0004089	carbonate dehydratase activity	7	3	0.39	0.0049
+4	GO:0005109	frizzled binding	8	3	0.44	0.0075
+5	GO:0043395	heparan sulfate proteoglycan binding	8	3	0.44	0.0075
+7	GO:0004806	triglyceride lipase activity	11	3	0.61	0.0195
+8	GO:0031418	L-ascorbic acid binding	12	3	0.66	0.0250
+9	GO:0030247	polysaccharide binding	6	3	0.33	0.0268
+10	GO:0005540	hyaluronic acid binding	5	2	0.28	0.0270
+11	GO:0005509	calcium ion binding	203	18	11.19	0.0281
+12	GO:0032947	protein complex scaffold	13	3	0.72	0.0312
+13	GO:0051219	phosphoprotein binding	9	3	0.5	0.0388
+14	GO:0017147	Wnt-protein binding	6	2	0.33	0.0391
+15	GO:0003924	GTPase activity	73	8	4.02	0.0454
+16	GO:0005200	structural constituent of cytoskeleton	25	4	1.38	0.0455

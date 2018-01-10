@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0008475	procollagen-lysine 5-dioxygenase activity	2	2	0.11	0.0030
+2	GO:0033823	procollagen glucosyltransferase activity	2	2	0.11	0.0030
+3	GO:0004089	carbonate dehydratase activity	7	3	0.39	0.0049
+4	GO:0005109	frizzled binding	8	3	0.44	0.0075
+5	GO:0043395	heparan sulfate proteoglycan binding	8	3	0.44	0.0075
+6	GO:0004791	thioredoxin-disulfide reductase activity	3	2	0.17	0.0087
+7	GO:0004806	triglyceride lipase activity	11	3	0.61	0.0195
+8	GO:0031418	L-ascorbic acid binding	12	3	0.66	0.0250
+9	GO:0030247	polysaccharide binding	6	3	0.33	0.0268
+10	GO:0005540	hyaluronic acid binding	5	2	0.28	0.0270
+11	GO:0005509	calcium ion binding	203	18	11.19	0.0281
+12	GO:0032947	protein complex scaffold	13	3	0.72	0.0312
+13	GO:0051219	phosphoprotein binding	9	3	0.5	0.0388
+14	GO:0017147	Wnt-protein binding	6	2	0.33	0.0391
+15	GO:0003924	GTPase activity	73	8	4.02	0.0454
+16	GO:0005200	structural constituent of cytoskeleton	25	4	1.38	0.0455
+17	GO:0046872	metal ion binding	869	63	47.88	0.0516
+18	GO:0035374	chondroitin sulfate binding	7	2	0.39	0.0528
+19	GO:0033691	sialic acid binding	7	2	0.39	0.0528
+20	GO:0008408	3'-5' exonuclease activity	7	2	0.39	0.0528
+21	GO:0034185	apolipoprotein binding	7	2	0.39	0.0528
+22	GO:0031826	type 2A serotonin receptor binding	1	1	0.06	0.0551
+23	GO:0016922	ligand-dependent nuclear receptor binding	1	1	0.06	0.0551
+24	GO:0070300	phosphatidic acid binding	1	1	0.06	0.0551
+25	GO:0015280	ligand-gated sodium channel activity	1	1	0.06	0.0551
+26	GO:0048244	phytanoyl-CoA dioxygenase activity	1	1	0.06	0.0551
+27	GO:0001162	RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding	1	1	0.06	0.0551
+28	GO:0005112	Notch binding	1	1	0.06	0.0551
+29	GO:0047760	butyrate-CoA ligase activity	1	1	0.06	0.0551
+30	GO:0044548	S100 protein binding	1	1	0.06	0.0551
+31	GO:0004839	ubiquitin activating enzyme activity	1	1	0.06	0.0551
+32	GO:0004134	4-alpha-glucanotransferase activity	1	1	0.06	0.0551
+33	GO:0004135	amylo-alpha-1,6-glucosidase activity	1	1	0.06	0.0551
+34	GO:0070290	N-acylphosphatidylethanolamine-specific phospholipase D activity	1	1	0.06	0.0551
+35	GO:0035529	NADH pyrophosphatase activity	1	1	0.06	0.0551
+36	GO:0008419	RNA lariat debranching enzyme activity	1	1	0.06	0.0551
+37	GO:0019135	deoxyhypusine monooxygenase activity	1	1	0.06	0.0551
+38	GO:0035373	chondroitin sulfate proteoglycan binding	1	1	0.06	0.0551
+39	GO:0004476	mannose-6-phosphate isomerase activity	1	1	0.06	0.0551
+40	GO:0004630	phospholipase D activity	1	1	0.06	0.0551
+41	GO:0005298	proline:sodium symporter activity	1	1	0.06	0.0551
+42	GO:0004748	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	1	1	0.06	0.0551
+43	GO:0019778	Atg12 activating enzyme activity	1	1	0.06	0.0551
+44	GO:0019779	Atg8 activating enzyme activity	1	1	0.06	0.0551
+45	GO:0009378	four-way junction helicase activity	1	1	0.06	0.0551
+46	GO:0052856	NADHX epimerase activity	1	1	0.06	0.0551
+47	GO:0017057	6-phosphogluconolactonase activity	1	1	0.06	0.0551
+48	GO:0016308	1-phosphatidylinositol-4-phosphate 5-kinase activity	1	1	0.06	0.0551
+49	GO:0030248	cellulose binding	1	1	0.06	0.0551
+50	GO:0004528	phosphodiesterase I activity	1	1	0.06	0.0551
+51	GO:0004890	GABA-A receptor activity	1	1	0.06	0.0551
+52	GO:0004056	argininosuccinate lyase activity	1	1	0.06	0.0551
+53	GO:0047341	fucose-1-phosphate guanylyltransferase activity	1	1	0.06	0.0551
+54	GO:0017076	purine nucleotide binding	539	30	29.7	0.0553
+55	GO:0001948	glycoprotein binding	19	5	1.05	0.0662
+56	GO:0019894	kinesin binding	9	2	0.5	0.0842
+57	GO:0002162	dystroglycan binding	9	2	0.5	0.0842
+58	GO:0008417	fucosyltransferase activity	5	2	0.28	0.1067
+59	GO:0008046	axon guidance receptor activity	2	1	0.11	0.1072
+60	GO:0047880	erythrulose reductase activity	2	1	0.11	0.1072
+61	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding	2	1	0.11	0.1072
+62	GO:0008810	cellulase activity	2	1	0.11	0.1072
+63	GO:0004854	xanthine dehydrogenase activity	2	1	0.11	0.1072
+64	GO:0004855	xanthine oxidase activity	2	1	0.11	0.1072
+65	GO:0004165	dodecenoyl-CoA delta-isomerase activity	2	1	0.11	0.1072
+66	GO:0008843	endochitinase activity	2	1	0.11	0.1072
+67	GO:0036122	BMP binding	2	1	0.11	0.1072
+68	GO:0008131	primary amine oxidase activity	2	1	0.11	0.1072
+69	GO:0050431	transforming growth factor beta binding	2	1	0.11	0.1072
+70	GO:0045545	syndecan binding	2	1	0.11	0.1072
+71	GO:0052597	diamine oxidase activity	2	1	0.11	0.1072
+72	GO:0052598	histamine oxidase activity	2	1	0.11	0.1072
+73	GO:0052599	methylputrescine oxidase activity	2	1	0.11	0.1072
+74	GO:0052600	propane-1,3-diamine oxidase activity	2	1	0.11	0.1072
+75	GO:0050321	tau-protein kinase activity	2	1	0.11	0.1072
+76	GO:0030274	LIM domain binding	2	1	0.11	0.1072
+77	GO:0030215	semaphorin receptor binding	2	1	0.11	0.1072
+78	GO:0005506	iron ion binding	60	6	3.31	0.1100
+79	GO:0003676	nucleic acid binding	486	14	26.78	0.1145
+80	GO:0030246	carbohydrate binding	66	10	3.64	0.1249
+81	GO:0004252	serine-type endopeptidase activity	64	6	3.53	0.1382
+82	GO:0004527	exonuclease activity	11	4	0.61	0.1543
+83	GO:0005507	copper ion binding	25	3	1.38	0.1561
+84	GO:0005230	extracellular ligand-gated ion channel activity	3	1	0.17	0.1564
+85	GO:0046922	peptide-O-fucosyltransferase activity	3	1	0.17	0.1564
+86	GO:0070009	serine-type aminopeptidase activity	3	1	0.17	0.1564
+87	GO:0008146	sulfotransferase activity	3	1	0.17	0.1564
+88	GO:0015278	calcium-release channel activity	3	1	0.17	0.1564
+89	GO:0000030	mannosyltransferase activity	3	1	0.17	0.1564
+90	GO:0003906	DNA-(apurinic or apyrimidinic site) lyase activity	3	1	0.17	0.1564
+91	GO:0097110	scaffold protein binding	3	1	0.17	0.1564
+92	GO:0080025	phosphatidylinositol-3,5-bisphosphate binding	3	1	0.17	0.1564
+93	GO:0001784	phosphotyrosine binding	3	1	0.17	0.1564
+94	GO:0050038	L-xylulose reductase (NADP+) activity	3	1	0.17	0.1564
+95	GO:0005328	neurotransmitter:sodium symporter activity	3	1	0.17	0.1564
+96	GO:0009055	electron carrier activity	37	4	2.04	0.1689
+97	GO:0005525	GTP binding	130	10	7.16	0.1766
+98	GO:0015035	protein disulfide oxidoreductase activity	14	2	0.77	0.1783
+99	GO:0005089	Rho guanyl-nucleotide exchange factor activity	15	2	0.83	0.1987
+100	GO:0015267	channel activity	36	6	1.98	0.1995

@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	P_value
+1	GO:0060122	inner ear receptor stereocilium organization	7	4	0.38	0.00025
+2	GO:0001822	kidney development	34	8	1.82	0.00036
+3	GO:0051290	protein heterotetramerization	5	3	0.27	0.00140
+4	GO:0090102	cochlea development	8	4	0.43	0.00281
+5	GO:0070831	basement membrane assembly	2	2	0.11	0.00286
+6	GO:0045191	regulation of isotype switching	2	2	0.11	0.00286
+7	GO:0008104	protein localization	388	15	20.81	0.00313
+8	GO:0042475	odontogenesis of dentin-containing tooth	9	4	0.48	0.00446
+9	GO:0060425	lung morphogenesis	7	3	0.38	0.00452
+10	GO:0048730	epidermis morphogenesis	3	2	0.16	0.00828
+11	GO:0001886	endothelial cell morphogenesis	3	2	0.16	0.00828
+12	GO:0051918	negative regulation of fibrinolysis	3	2	0.16	0.00828
+13	GO:0090305	nucleic acid phosphodiester bond hydrolysis	33	6	1.77	0.00976
+14	GO:0006338	chromatin remodeling	16	4	0.86	0.01362
+15	GO:0043932	ossification involved in bone remodeling	4	2	0.21	0.01598
+16	GO:0000422	mitophagy	4	2	0.21	0.01598
+17	GO:0097421	liver regeneration	4	2	0.21	0.01598
+18	GO:0033690	positive regulation of osteoblast proliferation	4	2	0.21	0.01598
+19	GO:0045669	positive regulation of osteoblast differentiation	12	3	0.64	0.02331
+20	GO:0050808	synapse organization	41	5	2.2	0.02540
+21	GO:0030199	collagen fibril organization	5	2	0.27	0.02569
+22	GO:0000086	G2/M transition of mitotic cell cycle	18	4	0.97	0.03524
+23	GO:0051384	response to glucocorticoid	14	3	0.75	0.03565
+24	GO:0090090	negative regulation of canonical Wnt signaling pathway	14	3	0.75	0.03565
+25	GO:0006812	cation transport	117	10	6.27	0.03637
+26	GO:0090177	establishment of planar polarity involved in neural tube closure	6	2	0.32	0.03719
+27	GO:0090103	cochlea morphogenesis	6	2	0.32	0.03719
+28	GO:0051919	positive regulation of fibrinolysis	6	2	0.32	0.03719
+29	GO:0045887	positive regulation of synaptic growth at neuromuscular junction	7	2	0.38	0.05026
+30	GO:0006004	fucose metabolic process	7	2	0.38	0.05026
+31	GO:0042311	vasodilation	7	2	0.38	0.05026
+32	GO:0022414	reproductive process	165	13	8.85	0.05261
+33	GO:0061028	establishment of endothelial barrier	2	2	0.11	0.05335
+34	GO:0001569	patterning of blood vessels	4	2	0.21	0.05338
+35	GO:0043482	cellular pigment accumulation	5	2	0.27	0.05339
+36	GO:0010757	negative regulation of plasminogen activation	1	1	0.05	0.05363
+37	GO:0003331	positive regulation of extracellular matrix constituent secretion	1	1	0.05	0.05363
+38	GO:0051039	positive regulation of transcription involved in meiotic cell cycle	1	1	0.05	0.05363
+39	GO:0045217	cell-cell junction maintenance	1	1	0.05	0.05363
+40	GO:0015820	leucine transport	1	1	0.05	0.05363
+41	GO:0061086	negative regulation of histone H3-K27 methylation	1	1	0.05	0.05363
+42	GO:0021860	pyramidal neuron development	1	1	0.05	0.05363
+43	GO:0034727	piecemeal microautophagy of nucleus	1	1	0.05	0.05363
+44	GO:0072060	outer medullary collecting duct development	1	1	0.05	0.05363
+45	GO:0072061	inner medullary collecting duct development	1	1	0.05	0.05363
+46	GO:2000346	negative regulation of hepatocyte proliferation	1	1	0.05	0.05363
+47	GO:0060033	anatomical structure regression	1	1	0.05	0.05363
+48	GO:0072053	renal inner medulla development	1	1	0.05	0.05363
+49	GO:0072054	renal outer medulla development	1	1	0.05	0.05363
+50	GO:0006995	cellular response to nitrogen starvation	1	1	0.05	0.05363
+51	GO:0070086	ubiquitin-dependent endocytosis	1	1	0.05	0.05363
+52	GO:0022009	central nervous system vasculogenesis	1	1	0.05	0.05363
+53	GO:0007141	male meiosis I	1	1	0.05	0.05363
+54	GO:0060535	trachea cartilage morphogenesis	1	1	0.05	0.05363
+55	GO:0015670	carbon dioxide transport	1	1	0.05	0.05363
+56	GO:0007290	spermatid nucleus elongation	1	1	0.05	0.05363
+57	GO:0048842	positive regulation of axon extension involved in axon guidance	1	1	0.05	0.05363
+58	GO:2001150	positive regulation of dipeptide transmembrane transport	1	1	0.05	0.05363
+59	GO:0048843	negative regulation of axon extension involved in axon guidance	1	1	0.05	0.05363
+60	GO:0035582	sequestering of BMP in extracellular matrix	1	1	0.05	0.05363
+61	GO:0035524	proline transmembrane transport	1	1	0.05	0.05363
+62	GO:0007288	sperm axoneme assembly	1	1	0.05	0.05363
+63	GO:0044805	late nucleophagy	1	1	0.05	0.05363
+64	GO:0032536	regulation of cell projection size	1	1	0.05	0.05363
+65	GO:0043568	positive regulation of insulin-like growth factor receptor signaling pathway	1	1	0.05	0.05363
+66	GO:0001207	histone displacement	1	1	0.05	0.05363
+67	GO:0016332	establishment or maintenance of polarity of embryonic epithelium	1	1	0.05	0.05363
+68	GO:0009733	response to auxin	1	1	0.05	0.05363
+69	GO:0009735	response to cytokinin	1	1	0.05	0.05363
+70	GO:0048692	negative regulation of axon extension involved in regeneration	1	1	0.05	0.05363
+71	GO:0045650	negative regulation of macrophage differentiation	1	1	0.05	0.05363
+72	GO:0045672	positive regulation of osteoclast differentiation	1	1	0.05	0.05363
+73	GO:0009860	pollen tube growth	1	1	0.05	0.05363
+74	GO:0070358	actin polymerization-dependent cell motility	1	1	0.05	0.05363
+75	GO:0032364	oxygen homeostasis	1	1	0.05	0.05363
+76	GO:0009827	plant-type cell wall modification	1	1	0.05	0.05363
+77	GO:0009846	pollen germination	1	1	0.05	0.05363
+78	GO:0060482	lobar bronchus development	1	1	0.05	0.05363
+79	GO:0036334	epidermal stem cell homeostasis	1	1	0.05	0.05363
+80	GO:0060426	lung vasculature development	1	1	0.05	0.05363
+81	GO:0070307	lens fiber cell development	1	1	0.05	0.05363
+82	GO:0051971	positive regulation of transmission of nerve impulse	1	1	0.05	0.05363
+83	GO:0001842	neural fold formation	1	1	0.05	0.05363
+84	GO:0071455	cellular response to hyperoxia	1	1	0.05	0.05363
+85	GO:0071480	cellular response to gamma radiation	1	1	0.05	0.05363
+86	GO:0015969	guanosine tetraphosphate metabolic process	1	1	0.05	0.05363
+87	GO:0000012	single strand break repair	1	1	0.05	0.05363
+88	GO:0002005	angiotensin catabolic process in blood	1	1	0.05	0.05363
+89	GO:0097089	methyl-branched fatty acid metabolic process	1	1	0.05	0.05363
+90	GO:2001028	positive regulation of endothelial cell chemotaxis	1	1	0.05	0.05363
+91	GO:0032486	Rap protein signal transduction	1	1	0.05	0.05363
+92	GO:0060158	phospholipase C-activating dopamine receptor signaling pathway	1	1	0.05	0.05363
+93	GO:0010114	response to red light	1	1	0.05	0.05363
+94	GO:0060136	embryonic process involved in female pregnancy	1	1	0.05	0.05363
+95	GO:0042450	arginine biosynthetic process via ornithine	1	1	0.05	0.05363
+96	GO:1990256	signal clustering	1	1	0.05	0.05363
+97	GO:0038166	angiotensin-activated signaling pathway	1	1	0.05	0.05363
+98	GO:0009644	response to high light intensity	1	1	0.05	0.05363
+99	GO:0010218	response to far red light	1	1	0.05	0.05363
+100	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1	1	0.05	0.05363
