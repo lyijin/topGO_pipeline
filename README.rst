@@ -12,7 +12,7 @@ This pipeline requires:
 
 2. R (the newer, the better. From experience, topGO has been continually updated to work with the newest R versions).
 
-2a. Optional: install Rstudio. Makes programming in R... bearable.
+   Optional: install RStudio. Makes programming in R... bearable.
 
 3. Install topGO via Bioconductor: http://bioconductor.org/packages/release/bioc/html/topGO.html.
 
@@ -39,7 +39,7 @@ Errors popped up? Google the error message, check whether your R is outdated, an
 
 Setting up relevant files and folders
 -------------------------------------
-In essence, this step is necessary because my R programming is terrible. You'll notice that the topGO R script contains a lot of hardcoded filenames and folders. That's mainly because I got lazy and didn't bother figuring out how to configure an R script to take in command-line arguments, like any sensible script should. It's not easy to pass arguments to the script via Rstudio, hence my laziness.
+In essence, this step is necessary because my R programming is terrible. You'll notice that the topGO R script contains a lot of hardcoded filenames and folders. That's mainly because I got lazy and didn't bother figuring out how to configure an R script to take in command-line arguments, like any sensible script should. It's not easy to pass arguments to the script via RStudio, hence my laziness.
 
 OK, enough griping. I'll use an example (*Aiptasia*) to illustrate the process. If you mimic the way I set up this git repository, you'd be fine. Hopefully.
 
@@ -91,7 +91,7 @@ This was why I wrote ``aip_topgo_usage.consider_universe.R``.
 
 Running the analysis
 --------------------
-1. Open ``aip_topgo_usage.R`` or ``aip_topgo_usage.consider_universe.R`` in plain ol' R, or Rstudio (recommended).
+1. Open ``aip_topgo_usage.R`` or ``aip_topgo_usage.consider_universe.R`` in plain ol' R, or RStudio (recommended).
 
 2. Modify the folder names to suit your usage. These are in lines 2 and 6 of the scripts.
 
